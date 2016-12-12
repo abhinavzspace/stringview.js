@@ -677,3 +677,5 @@ StringView.prototype.valueOf = StringView.prototype.toString = function () {
 	return sView;
 
 };
+
+export default StringView;
