@@ -678,4 +678,4 @@ StringView.prototype.valueOf = StringView.prototype.toString = function () {
 
 };
 
-export default StringView;
+exports.StringView = StringView;
